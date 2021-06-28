@@ -1,0 +1,138 @@
+#why{
+  display: flex;
+  flex-direction: column;
+  background: #FFFFFF;
+}
+.whyheading{
+  width: 40%;
+
+  .whyh1{
+    color: #212121;
+    display: flex;
+    justify-content:space-around;
+      width: 100%;
+    font-size: 36px;
+  }
+.whyp{
+  display: flex;
+  justify-content:space-around;
+    width: 80%;
+  color: #86878B;
+  font-size: 14px;
+}
+.whyimg{
+  background: #E27866;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left:350px;
+  height: 2px;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  width: 64px;
+}
+}
+.whycontainer{
+  justify-content:space-around;
+  width: 100%;
+  display:flex;
+  flex-direction: row;
+
+
+}
+.fas{
+  border: 1px solid #E27866;
+  background:white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: middle;
+font-size: 30px;
+color: #E27866;
+}
+.whysection1heading{
+
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+.whyp1{
+  color: #86878B;
+  font-size: 14px;
+}
+.whysection1{
+
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+.whysection2heading{
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+.whyp2{
+  color: #86878B;
+  font-size: 14px;
+}
+.whysection2{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+.whysection3heading{
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.whyp3{
+  color: #86878B;
+  font-size: 14px;
+}
+.whysection3{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.far{
+  border: 1px solid #E27866;
+  background:white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: middle;
+    font-size: 30px;
+  color: #E27866;
+
+  }
+
+  .fab{
+    border: 1px solid #E27866;
+    background:white;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 50px;
+      vertical-align: middle;
+      font-size: 30px;
+    color: #E27866;
+}

@@ -1,0 +1,17 @@
+#home {
+  display: flex;
+
+background: #00000045;
+background-image: url(../assets/homecover.png);
+background-blend-mode: darken;
+height: 639px;
+.home-text {
+font-size: 36px;
+font-weight: 600;
+color: white;
+}
+@import "form";
+}
+.container1{
+  width: 61%;
+}

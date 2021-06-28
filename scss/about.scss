@@ -1,0 +1,82 @@
+#about {
+  background-color: #1C1C1C;
+  .aboutimg1{
+    margin-right: 200px;
+    top: 1624px;
+    left: 210px;
+    width: 389px;
+    height: 179px;
+    background: transparent url('img/cheshire-county-hygiene-services.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    .aboutsection{
+
+      width: 500px;
+
+    }
+  }
+}
+.aboutheading{
+  padding: 3px 0px;
+  color: white;
+  top: 1501px;
+  left: 767px;
+  width: 350px;
+  height: 40px;
+  text-align: left;
+  font: normal normal 600 30px/43px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+.aboutp{
+  padding: 20px 20px;
+  top: 1637px;
+left: 767px;
+width: 451px;
+height: 58px;
+  color: white;
+  text-align: left;
+font: normal normal normal 14px Montserrat;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.abouticons{
+ .far{
+   margin-right: 10px;
+   background:#1C1C1C;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+
+ }
+  height: 145px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  display: flex;
+  flex-direction: column;
+color: white;
+font-size: 28px;
+}
+.titlelorem{
+  color: white;
+
+  font-size:14px;
+  width: 600px;
+}
+.icons-tittle{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items:center;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+
+}

@@ -1,0 +1,69 @@
+html{
+
+}
+
+nav {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 72px;
+  background: #1C1C1C 0% 0% no-repeat padding-box;
+  opacity: 1;
+  padding: 0 20px;
+  z-index: 2;
+
+
+  .nav-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    .logo {
+      width: 120px;
+      line-height: 72px;
+    }
+
+    ul {
+      display: flex;
+      li {
+        list-style-type: none;
+        a {
+          line-height: 72px;
+          height: 72px;
+          text-decoration: none;
+          font-family: Montserrat;
+          letter-spacing: 0px;
+          color: #FFFFFF;
+          opacity: 0.69;
+          padding: 0 20px;
+        }
+      }
+    }
+  .meniu-burger{
+    position: absolute;
+    top:0;
+    right:0;
+    width: 20px;
+    height: 20px;
+    background: url(../assets/menu-burger.svg)
+  }
+  }
+}
+
+.side-menu {
+  display: flex;
+  flex-direction: column;
+position: absolute;
+width: 200px;
+height: 100%;
+background:#1C1C1C;
+ul{
+  display: flex;
+  flex-direction: column;
+  height: 800px;
+  background:#1C1C1C;
+
+}
+}
